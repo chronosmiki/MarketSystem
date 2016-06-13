@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Thu Nov 26 21:16:03 BRST 2015:
+ Inicializando o Derby versão The Apache Software Foundation - Apache Derby - 10.12.1.1 - (1704137): instância a816c00e-0151-4615-0ad9-000000b74d08
+no diretório de banco de dados C:\Systek\MyDB 
+
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_60-b27
+user.dir=G:\Java Portable\EclipsePortable\Data\workspace\MercadoDoAranha
+os.name=Windows 8.1
+os.arch=x86
+os.version=6.3
+derby.system.home=null
+Carregador de classe do banco de dados iniciado - derby.database.classpath=''
